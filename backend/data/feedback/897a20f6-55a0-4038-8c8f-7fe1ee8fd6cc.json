@@ -1,0 +1,16 @@
+{
+  "feedback_id": "897a20f6-55a0-4038-8c8f-7fe1ee8fd6cc",
+  "image_id": "f86096bd-ed8d-4f52-8dcf-d66685d3b7db",
+  "image_path": "C:\\Users\\divya\\Desktop\\EcoSort\\backend\\data\\uploads\\f86096bd-ed8d-4f52-8dcf-d66685d3b7db.jpg",
+  "reviewed": true,
+  "corrections": [
+    {
+      "class_id": 3,
+      "x_center": 0.5,
+      "y_center": 0.5,
+      "width": 0.5,
+      "height": 0.5,
+      "label": "Glass"
+    }
+  ]
+}
